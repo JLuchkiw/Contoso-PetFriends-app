@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ellie\\OneDrive\\Desktop\\Microsoft C# Learning Path\\Challenge Projects\\Challenge-Project-variable-data-in-CSharp-main\\Final\\Final.csproj",
-      "projectName": "Final",
-      "projectPath": "C:\\Users\\Ellie\\OneDrive\\Desktop\\Microsoft C# Learning Path\\Challenge Projects\\Challenge-Project-variable-data-in-CSharp-main\\Final\\Final.csproj",
+      "projectUniqueName": "C:\\Users\\Ellie\\OneDrive\\Documents\\GitHub\\Practice\\settings.csproj",
+      "projectName": "settings",
+      "projectPath": "C:\\Users\\Ellie\\OneDrive\\Documents\\GitHub\\Practice\\settings.csproj",
       "packagesPath": "C:\\Users\\Ellie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ellie\\OneDrive\\Desktop\\Microsoft C# Learning Path\\Challenge Projects\\Challenge-Project-variable-data-in-CSharp-main\\Final\\obj\\",
+      "outputPath": "C:\\Users\\Ellie\\OneDrive\\Documents\\GitHub\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ellie\\AppData\\Roaming\\NuGet\\NuGet.Config"
