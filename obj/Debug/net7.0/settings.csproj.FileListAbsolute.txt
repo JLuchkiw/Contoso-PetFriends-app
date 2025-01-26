@@ -1,0 +1,14 @@
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\bin\Debug\net7.0\settings.exe
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\bin\Debug\net7.0\settings.deps.json
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\bin\Debug\net7.0\settings.runtimeconfig.json
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\bin\Debug\net7.0\settings.dll
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\bin\Debug\net7.0\settings.pdb
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\settings.AssemblyInfoInputs.cache
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\settings.AssemblyInfo.cs
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\settings.csproj.CoreCompileInputs.cache
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\settings.dll
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\refint\settings.dll
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\settings.pdb
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\settings.genruntimeconfig.cache
+C:\Users\Ellie\OneDrive\Documents\GitHub\Practice\obj\Debug\net7.0\ref\settings.dll
